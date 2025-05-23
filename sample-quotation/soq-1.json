@@ -1,0 +1,83 @@
+{
+  "quotation_id": "SQ-1002",
+  "date": "2025-05-23",
+  "expiry_date": "2025-06-06",
+  "customer": {
+    "customer_id": "CUST-305",
+    "name": "Global Tech Solutions",
+    "contact_person": "Michael Chan",
+    "email": "m.chan@globaltech.com",
+    "phone": "+1-555-987-6543",
+    "billing_address": {
+      "street": "456 Technology Way",
+      "city": "Innoville",
+      "state": "CA",
+      "postal_code": "90210",
+      "country": "USA"
+    }
+  },
+  "items": [
+    {
+      "item_id": "ITEM-001",
+      "description": "Enterprise Server - 64 Cores",
+      "quantity": 2,
+      "unit_price": 4500.00,
+      "discount": 0.05,
+      "total_price": 8550.00
+    },
+    {
+      "item_id": "ITEM-002",
+      "description": "Network Switch - 48 Port",
+      "quantity": 5,
+      "unit_price": 350.00,
+      "discount": 0,
+      "total_price": 1750.00
+    },
+    {
+      "item_id": "ITEM-003",
+      "description": "Firewall Appliance - UTM",
+      "quantity": 3,
+      "unit_price": 1200.00,
+      "discount": 0.1,
+      "total_price": 3240.00
+    },
+    {
+      "item_id": "ITEM-004",
+      "description": "External Hard Drive - 10TB",
+      "quantity": 10,
+      "unit_price": 150.00,
+      "discount": 0.05,
+      "total_price": 1425.00
+    },
+    {
+      "item_id": "ITEM-005",
+      "description": "Professional Services - Installation",
+      "quantity": 1,
+      "unit_price": 2000.00,
+      "discount": 0,
+      "total_price": 2000.00
+    },
+    {
+      "item_id": "ITEM-006",
+      "description": "Annual Support Contract",
+      "quantity": 1,
+      "unit_price": 1800.00,
+      "discount": 0.05,
+      "total_price": 1710.00
+    },
+    {
+      "item_id": "ITEM-007",
+      "description": "Rack Mount Kit - 2U",
+      "quantity": 4,
+      "unit_price": 75.00,
+      "discount": 0,
+      "total_price": 300.00
+    }
+  ],
+  "subtotal": 18975.00,
+  "tax_rate": 0.08,
+  "tax_amount": 1518.00,
+  "total": 20493.00,
+  "terms_and_conditions": "Valid for 14 days. 50% advance payment required. Balance due upon delivery.",
+  "status": "Pending"
+}
